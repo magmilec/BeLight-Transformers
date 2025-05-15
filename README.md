@@ -1,3 +1,4 @@
+![Logo](logo.jpg)
 # BeLight-Transformers
 Notebooks for the BeLight students 
 # 📘 AI Workshop Notebooks

@@ -7,19 +7,24 @@ This repository contains Jupyter notebooks used during the practical workshops f
 ---
 
 ## 1. 🧠 Introduction to Transformers  
-Notebook covering the basic architecture, attention mechanisms, and the origin of Transformers.  
-🔗 [View Notebook](https://github.com/magmilec/blob/main/TransKQV_todo.ipynb)
+Notebooks covering the basic architecture, attention mechanisms, and the origin of Transformers.  
+- TransKQV_todo.ipynb
+- TransfPositional.ipynb
+- Transformer1.ipynb
 
 ---
 
 ## 2. 👁️ Vision Transformers  
-Includes ViT architecture, Swin Transformer, and DETR overview with implementation walkthroughs.  
-🔗 [View Notebook](https://github.com/your_username/your_repo/blob/main/02_vision_transformers.ipynb)
+Includes ViT architecture and Swin Transformer with implementation walkthroughs.  
+- myViT_v3.ipynb
+- swin_transformer_flowers.ipynb
 
 ---
 
 ## 3. 🧐 Explainable AI  
-This notebook demonstrates interpretable machine learning models and techniques such as EBM.  
-🔗 [View Notebook](https://github.com/your_username/your_repo/blob/main/03_explainable_ai.ipynb)
+Those notebooks demonstrate interpretable machine learning models and techniques such as EBM, LIME, SHAP and GradCAM.  
+- california_housing_ebm.ipynb
+- shap_explanations.ipynb
+- vision_explanations.ipynb
 
 ---

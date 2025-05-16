@@ -35,4 +35,4 @@ Those notebooks demonstrate interpretable machine learning models and techniques
 Additional Links:
 https://jalammar.github.io/illustrated-transformer/
 
-Contakt: magmilec@pg.edu.pl
+Contact: magmilec@pg.edu.pl

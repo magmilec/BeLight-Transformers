@@ -32,3 +32,5 @@ Those notebooks demonstrate interpretable machine learning models and techniques
 - vision_explanations.ipynb
 
 ---
+Additional Links:
+https://jalammar.github.io/illustrated-transformer/
